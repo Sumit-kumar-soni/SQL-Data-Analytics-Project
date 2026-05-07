@@ -44,11 +44,3 @@ this collection of analytics mini-projects builds analytical thinking, business 
     Prepare SQL outputs that can be fed into dashboards or reports.
 
 ---
-
-### 🎯 Who is this for?
-
-* SQL learners and data analysts
-* Business analysts and students
-* Anyone building a portfolio of practical SQL projects
-
----
